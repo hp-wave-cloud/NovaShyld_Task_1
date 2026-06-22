@@ -12,3 +12,7 @@
 ### Repository Contents
 - Task1_Step1_Ethical_Hacking_Rules.md
 - Screenshots
+
+### Completed Steps
+- Step 1: Ethical Hacking Rules & Scope
+- Step 2: Pentesting Methodology
