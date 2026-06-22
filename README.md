@@ -1,13 +1,14 @@
 # NovaShyld Task 1
 
-## Foundations of Ethical Hacking & Penetration Testing
+## Step 1: Foundations of Ethical Hacking
 
-### Completed:
-- Step 1: Ethical Hacking Rules & Scope
+### Completed Activities
+- Understood ethical hacking principles
+- Compared ethical hacking and illegal hacking
+- Learned about permission and scope
+- Studied responsible disclosure practices
+- Created notes and evidence screenshots
 
-### Files Included:
-- Task1_Step_Ethical_Hacking_Rules.md
-- Screenshots demonstrating completion
-
-Prepared by:
-Hariprasath
+### Repository Contents
+- Task1_Step1_Ethical_Hacking_Rules.md
+- Screenshots
