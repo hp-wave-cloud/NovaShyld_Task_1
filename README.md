@@ -131,13 +131,21 @@ All activities were conducted exclusively within an authorized personal lab envi
 ## Repository Structure
 NovaShyld_Task_1
 ├── Screenshots/
+
 ├── Reports/
+
 ├── Task1_Step1_Ethical_Hacking_Rules.md
+
 ├── Task1_Step2_Pentesting_Methodology.md
+
 ├── Task1_Step3_Lab_Setup.md
+
 ├── Task1_Step4_Linux_Essentials.md
+
 ├── Task1_Step5_Networking_Fundamentals.md
+
 ├── Task1_Step6_First_Safe_Recon.md
+
 └── README.md
 ---
 
