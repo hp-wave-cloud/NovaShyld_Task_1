@@ -1,192 +1,161 @@
 # NovaShyld Task 1 – Foundations of Ethical Hacking & Penetration Testing
 
 ## Candidate Details
+
 - Name: Hariprasath
 - Internship: Ethical Hacking & Penetration Testing Internship
 - Organization: NovaShyld Technologies
-- Repository: https://github.com/hp-wave-cloud/NovaShyld_Task_1
+- GitHub Repository: https://github.com/hp-wave-cloud/NovaShyld_Task_1
 - GitHub Pages: https://hp-wave-cloud.github.io/NovaShyld_Task_1/
 ---
 
-## Objective
-The objective of Task 1 is to understand the fundamental concepts of ethical hacking, establish a secure penetration testing lab environment, and gain hands-on experience with basic Linux commands required for cybersecurity professionals.
+## Task Objective
+
+The objective of this task was to build a strong foundation in ethical hacking and penetration testing by understanding ethical responsibilities, setting up a secure lab environment, learning Linux essentials, networking concepts, and performing safe reconnaissance within an authorized lab.
 ---
 
-# Step 1: Ethical Hacking Rules & Scope
-## Objective
-To understand the principles and responsibilities associated with ethical hacking.
+## Step 1: Ethical Hacking Rules & Scope
 
-## Activities Performed
-- Studied the difference between ethical hacking and illegal hacking.
-- Learned the importance of obtaining authorization before conducting security assessments.
-- Understood the concept of defining testing scope.
-- Learned responsible disclosure practices.
+### Activities Performed
+- Studied ethical hacking principles.
+- Understood the differences between ethical and illegal hacking.
+- Learned about permission and defined scope.
+- Understood responsible disclosure practices.
 
-## Deliverables
-- Created documentation notes.
-- Captured evidence screenshots.
-- Uploaded supporting files to GitHub.
-
-## Learning Outcomes
-- Importance of ethical behavior in cybersecurity.
-- Understanding of legal boundaries.
-- Knowledge of responsible vulnerability disclosure.
+### Learning Outcomes
+- Importance of ethics in cybersecurity.
+- Legal boundaries and authorization requirements.
+- Responsible handling of vulnerabilities.
 ---
 
-# Step 2: Pentesting Methodology
-## Objective
-To understand the different phases involved in a penetration testing engagement.
+## Step 2: Pentesting Methodology
 
-## Activities Performed
+### Activities Performed
+- Learned the penetration testing lifecycle:
+  - Reconnaissance
+  - Scanning & Enumeration
+  - Exploitation
+  - Post-Exploitation
+  - Reporting
 
-### Reconnaissance
-Gathering information about the target using publicly available sources.
-
-### Scanning and Enumeration
-Identifying live systems, open ports, services, and vulnerabilities.
-
-### Exploitation
-Understanding how vulnerabilities can be leveraged to gain unauthorized access within an authorized environment.
-
-### Post-Exploitation
-Assessing the impact of successful exploitation while remaining within the approved scope.
-
-### Reporting
-Documenting findings, risks, and remediation recommendations.
-
-## Deliverables
-- Created methodology notes.
-- Captured supporting screenshots.
-- Uploaded files to GitHub.
-
-## Learning Outcomes
-- Understanding of the penetration testing lifecycle.
-- Awareness of structured testing approaches.
-- Importance of reporting and remediation.
+### Learning Outcomes
+- Understanding structured security assessments.
+- Importance of documentation and reporting.
 ---
 
-# Step 3: Lab Environment Setup
-## Objective
-To build a safe and isolated environment for practicing ethical hacking techniques.
+## Step 3: Lab Environment Setup
 
-## Lab Configuration
+### Environment Configuration
 
-### Virtualization Platform
-- UTM (Apple Silicon alternative to VirtualBox/VMware)
-
-### Attacker Machine
-- Kali Linux 2026.1 ARM64
-
-### Host System
+#### Host Machine
 - MacBook Air M5
 - 16 GB RAM
 
-### Target Environment
-- Planned: OWASP Juice Shop / DVWA
+#### Virtualization Platform
+- UTM
 
-### Network Configuration
-- NAT Networking configured.
-- Host-only networking planned during target deployment.
+#### Attacker Machine
+- Kali Linux 2026.1 ARM64
 
-## Activities Performed
-- Installed UTM.
-- Created Kali Linux virtual machine.
-- Installed Kali Linux successfully.
-- Verified internet connectivity.
+#### Target Environment
+- Planned deployment of OWASP Juice Shop / DVWA
 
-## Deliverables
-- Lab setup documentation.
-- Terminal screenshots.
-- Evidence uploaded to GitHub.
-
-## Learning Outcomes
-- Understanding of virtualization concepts.
-- Building a penetration testing lab.
-- Configuring an attacker environment.
+### Learning Outcomes
+- Building an isolated hacking lab.
+- Understanding virtualization concepts.
 ---
+## Step 4: Linux Essentials
 
-# Step 4: Linux Essentials
+### Commands Practiced
 
-## Objective
-To gain practical experience with basic Linux commands required for ethical hacking.
-
-## Commands Practiced
-
-### Navigation
+#### Navigation
 - cd
 - pwd
 - ls
 
-### File Handling
+#### File Handling
+- touch
 - cp
 - mv
 - rm
-- touch
 
-### Permissions
+#### Permissions
 - chmod
 - ls -l
 
-### Package Management
+#### Package Management
 - apt update
 - apt install
 
-## Activities Performed
-- Navigated through directories.
-- Created and managed files.
-- Modified file permissions.
-- Installed Linux packages.
-
-## Deliverables
-- Command execution screenshots.
-- Documentation notes.
-- Uploaded evidence to GitHub.
-
-## Learning Outcomes
-- Improved Linux command-line proficiency.
-- Understanding of file management.
-- Knowledge of Linux permissions and package management.
+### Learning Outcomes
+- Linux command-line proficiency.
+- File and permission management.
 ---
 
-# Repository Structure
+## Step 5: Networking Fundamentals
 
-```
+### Topics Covered
+- IP Addressing
+- Ports
+- TCP vs UDP
+- DNS Basics
+- HTTP vs HTTPS
+
+### Commands Practiced
+- ip a
+- ping
+- traceroute
+- ss
+
+### Learning Outcomes
+- Understanding network communication.
+- Identifying services and connectivity.
+---
+
+## Step 6: First Safe Recon
+
+### Activities Performed
+- Identified the lab IP address.
+- Performed connectivity checks.
+- Conducted a basic Nmap scan.
+- Documented findings.
+
+### Ethical Consideration
+All activities were conducted exclusively within an authorized personal lab environment.
+
+### Learning Outcomes
+- Safe reconnaissance practices.
+- Basic service discovery techniques.
+---
+
+## Repository Structure
 NovaShyld_Task_1
-│
 ├── Screenshots/
 ├── Reports/
 ├── Task1_Step1_Ethical_Hacking_Rules.md
 ├── Task1_Step2_Pentesting_Methodology.md
 ├── Task1_Step3_Lab_Setup.md
 ├── Task1_Step4_Linux_Essentials.md
+├── Task1_Step5_Networking_Fundamentals.md
+├── Task1_Step6_First_Safe_Recon.md
 └── README.md
-```
 ---
 
-# Skills Acquired
+## Skills Acquired
 
 - Ethical Hacking Fundamentals
 - Penetration Testing Methodology
-- Virtual Lab Setup
-- Kali Linux Installation
-- Linux Command Line Basics
-- Documentation and Reporting
+- Kali Linux Administration
+- Linux Command Line
+- Networking Basics
+- Nmap Reconnaissance
+- Technical Documentation
 - GitHub Repository Management
 ---
 
-# Conclusion
+## Conclusion
+Task 1 provided practical exposure to the foundational concepts of ethical hacking and penetration testing. Through hands-on activities and documentation, I developed essential cybersecurity skills and established a secure learning environment for future advanced assessments.
 
-Task 1 provided a strong foundation in ethical hacking and penetration testing. Through this task, I developed an understanding of ethical responsibilities, penetration testing phases, lab setup procedures, and essential Linux skills required for cybersecurity assessments.
-
----
-## GitHub Repository
-
-Repository:
-https://github.com/hp-wave-cloud/NovaShyld_Task_1
-
-GitHub Pages:
-https://hp-wave-cloud.github.io/NovaShyld_Task_1/
----
-
-Prepared by: Hariprasath  
-NovaShyld Technologies – Ethical Hacking & Penetration Testing Internship**
+Prepared by:
+Hariprasath
+NovaShyld Technologies – Ethical Hacking & Penetration Testing Internship
