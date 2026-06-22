@@ -130,6 +130,7 @@ All activities were conducted exclusively within an authorized personal lab envi
 
 ## Repository Structure
 NovaShyld_Task_1
+
 ├── Screenshots/
 
 ├── Reports/
