@@ -164,6 +164,9 @@ NovaShyld_Task_1
 
 ## Conclusion
 Task 1 provided practical exposure to the foundational concepts of ethical hacking and penetration testing. Through hands-on activities and documentation, I developed essential cybersecurity skills and established a secure learning environment for future advanced assessments.
+---
 
 Prepared by: Hariprasath Ravichandran
+---
+
 NovaShyld Technologies – Ethical Hacking & Penetration Testing Internship
