@@ -6,7 +6,6 @@
 - Internship: Ethical Hacking & Penetration Testing Internship
 - Organization: NovaShyld Technologies
 - GitHub Repository: https://github.com/hp-wave-cloud/NovaShyld_Task_1
-- GitHub Pages: https://hp-wave-cloud.github.io/NovaShyld_Task_1/
 ---
 
 ## Task Objective
